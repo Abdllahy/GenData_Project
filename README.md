@@ -2,6 +2,7 @@
 
 Welcome to the Impact of AI on Industries End-to-End Analysis Project. This project simulates a real-world scenario where data storytelling and actionable insights drive decision-making. As a Data Analyst, i worked through each stage of the analytical process to solve key challenges and answer pressing research questions.
 ## Table of Contents
+- [🎯 Project Objectives](#-project-objectives)
 - [📘 Project Overview](#-project-overview)
 - [🔍 Key Findings](#-key-findings)
 - [🧰 Tools & Technologies](#-tools--technologies)
@@ -10,6 +11,21 @@ Welcome to the Impact of AI on Industries End-to-End Analysis Project. This proj
 - [📄 Full Report](#-full-report)
 - [📬 Connect with Me](#-connect-with-me)
 - [🧠 Future Enhancements](#-future-enhancements)
+
+  ## Project Objectives
+🎯 The main goals of this project were to:
+
+Analyze AI adoption trends across industries and countries
+
+Evaluate revenue growth and job loss due to AI automation
+
+Identify public sentiment and trust by region
+
+Understand the role of regulation in AI perception and use
+
+Highlight the most commonly used AI tools
+
+Visualize all findings using interactive Tableau dashboards
 
 ## Project Overview
 In this project, my goal is to analyze the global influence of artificial intelligence (AI) across industries and countries. Using structured data, I explore how AI adoption affects revenue growth, job loss, public trust, and content generation across sectors.
